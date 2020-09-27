@@ -1,0 +1,76 @@
+﻿@model IEnumerable<CPRG214.Properties.Presentation.Models.RentalViewModel>
+
+@{
+    ViewData["Title"] = "Rentals List";
+}
+
+<h3>List of Rental Properties</h3>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(m => m.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.Province)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.Rent)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.PropertyType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.Owner)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(m => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.City)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.Province)
+                </td>
+                <td>
+                    $@Html.DisplayFor(m => item.Rent)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.PropertyType)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.Owner)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts{
+
+    <script>
+        $(document).ready(function () {
+            //alert('loaded');
+        });
+    </script>
+
+}
+

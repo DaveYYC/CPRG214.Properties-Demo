@@ -1,0 +1,9 @@
+C:\Users\hahne\Desktop\ASP_Demos\DemoProjectsDay7\CPRG214.Properties\CPRG214.Properties.Domain\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.deps.json
+C:\Users\hahne\Desktop\ASP_Demos\DemoProjectsDay7\CPRG214.Properties\CPRG214.Properties.Domain\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.dll
+C:\Users\hahne\Desktop\ASP_Demos\DemoProjectsDay7\CPRG214.Properties\CPRG214.Properties.Domain\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.pdb
+C:\Users\hahne\Desktop\ASP_Demos\DemoProjectsDay7\CPRG214.Properties\CPRG214.Properties.Domain\obj\Debug\netcoreapp3.1\CPRG214.Properties.Domain.csprojAssemblyReference.cache
+C:\Users\hahne\Desktop\ASP_Demos\DemoProjectsDay7\CPRG214.Properties\CPRG214.Properties.Domain\obj\Debug\netcoreapp3.1\CPRG214.Properties.Domain.AssemblyInfoInputs.cache
+C:\Users\hahne\Desktop\ASP_Demos\DemoProjectsDay7\CPRG214.Properties\CPRG214.Properties.Domain\obj\Debug\netcoreapp3.1\CPRG214.Properties.Domain.AssemblyInfo.cs
+C:\Users\hahne\Desktop\ASP_Demos\DemoProjectsDay7\CPRG214.Properties\CPRG214.Properties.Domain\obj\Debug\netcoreapp3.1\CPRG214.Properties.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hahne\Desktop\ASP_Demos\DemoProjectsDay7\CPRG214.Properties\CPRG214.Properties.Domain\obj\Debug\netcoreapp3.1\CPRG214.Properties.Domain.dll
+C:\Users\hahne\Desktop\ASP_Demos\DemoProjectsDay7\CPRG214.Properties\CPRG214.Properties.Domain\obj\Debug\netcoreapp3.1\CPRG214.Properties.Domain.pdb
