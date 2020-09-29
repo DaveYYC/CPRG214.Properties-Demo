@@ -1,9 +1,11 @@
 ﻿using CPRG214.Properties.BLL;
 using CPRG214.Properties.Domain;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CPRG214.Properties.Presentation.Controllers
 {
+    [Authorize]
     public class OwnerController : Controller
     {
         // GET: Owner
@@ -14,6 +16,7 @@ namespace CPRG214.Properties.Presentation.Controllers
         }
 
         // GET: Owner/Create
+        [Authorize(Roles = "Manager")]
         public ActionResult Create()
         {
             return View();

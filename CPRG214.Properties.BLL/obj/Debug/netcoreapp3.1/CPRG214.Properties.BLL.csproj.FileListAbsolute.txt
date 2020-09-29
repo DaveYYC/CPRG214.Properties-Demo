@@ -26,3 +26,17 @@ C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties D7\CPRG214.Properties.BLL\ob
 C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties D7\CPRG214.Properties.BLL\obj\Debug\netcoreapp3.1\CPRG214.Properties.BLL.csproj.CopyComplete
 C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties D7\CPRG214.Properties.BLL\obj\Debug\netcoreapp3.1\CPRG214.Properties.BLL.dll
 C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties D7\CPRG214.Properties.BLL\obj\Debug\netcoreapp3.1\CPRG214.Properties.BLL.pdb
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\bin\Debug\netcoreapp3.1\CPRG214.Properties.BLL.deps.json
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\bin\Debug\netcoreapp3.1\CPRG214.Properties.BLL.dll
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\bin\Debug\netcoreapp3.1\CPRG214.Properties.BLL.pdb
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.dll
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.dll
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\bin\Debug\netcoreapp3.1\CPRG214.Properties.Data.pdb
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\bin\Debug\netcoreapp3.1\CPRG214.Properties.Domain.pdb
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\obj\Debug\netcoreapp3.1\CPRG214.Properties.BLL.csprojAssemblyReference.cache
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\obj\Debug\netcoreapp3.1\CPRG214.Properties.BLL.AssemblyInfoInputs.cache
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\obj\Debug\netcoreapp3.1\CPRG214.Properties.BLL.AssemblyInfo.cs
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\obj\Debug\netcoreapp3.1\CPRG214.Properties.BLL.csproj.CoreCompileInputs.cache
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\obj\Debug\netcoreapp3.1\CPRG214.Properties.BLL.csproj.CopyComplete
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\obj\Debug\netcoreapp3.1\CPRG214.Properties.BLL.dll
+C:\Users\hahne\Desktop\ASP_Demos\CPRG214.Properties Demo\CPRG214.Properties.BLL\obj\Debug\netcoreapp3.1\CPRG214.Properties.BLL.pdb
